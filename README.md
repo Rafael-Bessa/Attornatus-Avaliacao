@@ -2,6 +2,20 @@
 
 ![aaaaaaaa](https://user-images.githubusercontent.com/104053775/212801646-10ca7d50-5016-4378-a2d8-221288770e10.png)
 
+
+# 📝Respostas das perguntas
+
+1) Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+
+**Resposta: As funcionalidades de um software são como uma espécie de fundações do mesmo, é importante avaliar juntamente com a essa nova funcionalidade a confiabilidade que o software vai continuar oferecendo, facilidade de uso, economia e gastos que podem ser gerados e claro a segurança de uso, a nova funcionalidade não pode afetas e causar riscos de segurança aos usuários que já utilizar a aplicação.**
+
+
+2) Em qual etapa da implementação você considera a qualidade de software?
+
+**Resposta:  A qualidade de software na minha visão é entendida como um conjunto de características do próprio software que devem ser satisfeitas para que haja uma harmonia sobre os clientes e/ou usuários. Sendo assim, eu creio que em todo o processo de desenvolvimento a qualidade deve ser levada em conta, seja na implementação de funcionalidades, segurança, operacionalidade, testabilidade e entre outras.
+É importante durante todo o processo de desenvolvimento implantar uma norma famosa, a ISO 9126, que tem como funções definir concretamente as tarefas e deveres para uma boa qualidade de software.**
+
+
 # 💻 Como eu fiz o desenvolvimento
 
 - ``Criei as camadas de Controller para Pessoas e Enderecos (Endpoints /pessoas /enderecos)`` 
